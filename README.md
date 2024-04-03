@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+Hello Dear, In these project i have created a to do list web application using blockchain technologyy where a user can store a list of tasks that he/she wants to perform in his/her day to day life and can keep a track on it whether the task has been remaining or completed.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
